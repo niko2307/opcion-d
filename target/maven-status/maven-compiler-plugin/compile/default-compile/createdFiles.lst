@@ -1,0 +1,8 @@
+implementacion\ProcesoDefecto.class
+implementacion\ProxySoloAuth.class
+servicios\Seguridad.class
+servicios\Auditoria.class
+implementacion\FabricaServicios.class
+patronproxy\PatronProxyMain.class
+implementacion\ProxyProcesos.class
+implementacion\InterfaceProcesos.class
